@@ -1,5 +1,5 @@
 # H2IndieCat
-Privacy Policy
+# Privacy Policy
 At H2IndieCat, we strictly respect your privacy. We do not record, store, collect information that identifies you as an individual. We do not attempt to obtain any sensitive information. If you contact us via email or other social media directly, we may keep a copy of that though.
 
 H2IndieCat will not sell, trade or disclose any personal information you might give us without your prior consent. However, information will be disclosed where required by law.
